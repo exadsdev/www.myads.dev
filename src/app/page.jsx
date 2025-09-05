@@ -90,7 +90,7 @@ export default function Homepage() {
 
     
       <div className="line">
-        <a href="https://lin.ee/dsADl2z">
+        <a href="https://lin.ee/010iust">
           <img src="/img/line.png" alt="line" />
         </a>
       </div>
